@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.kms.katalon.composer.execution.scriptLaunchConfiguration">
+<stringAttribute key="org.codehaus.groovy.eclipse.launch.runType" value="TempTestCase1498205256100"/>
+<listAttribute key="org.eclipse.jdt.launching.CLASSPATH">
+<listEntry value="C:\Users\admin\Katalon Studio\Samples\Mobile\bin\keyword"/>
+<listEntry value="C:\Users\admin\Katalon Studio\Samples\Mobile\bin\lib"/>
+<listEntry value="C:\Users\admin\Katalon Studio\Samples\Mobile\bin"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\fast-classpath-scanner-1.93.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\httpclient-cache-4.5.2.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\jbrowserdriver-0.17.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\jbrowserdriver-lib-1.0.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\kat-server.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\selenium-server-standalone-2.53.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\sikuli-api-1.0.2-standalone.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\slf4j-api-1.7.2.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\slf4j-simple-1.7.2.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\zt-exec-1.7.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\zt-process-1.3.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\net.sf.supercsv.super-csv_2.1.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.poi_3.9.0.v201405241750.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.poi.ooxml_3.9.0.v201405241905.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.poi.ooxml.schemas_3.9.0.v201405241750.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.dom4j_1.6.1.v201312101416.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.io_2.4.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.lang_2.6.0.v201404270220.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.xmlbeans_2.6.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.google.gson_2.3.1.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.jsoup_1.7.2.v201304221138.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.mysql.jdbc_5.1.38.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.microsoft.sqlserver.sqljdbc4_4.1.5605.100.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.dbutils_1.6.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.oracle.jdbc.ojdbc7_12.1.0.2.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.postgresql.jdbc41_9.4.1208.jre7.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.eclipse.osgi_3.11.3.v20170209-1843.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.constant_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.selenium-standalone_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.jbrowser_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.zeroturnaround.zt-exec_1.7.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.zeroturnaround.zt-process_1.3.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.codec_1.7.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.logging_1.2.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.httpcomponents.httpcore_4.4.4.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.httpcomponents.httpclient_4.5.1.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.appium_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\io.appium.java-client_3.4.1.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.lang3_3.1.0.v201403281430.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.webui_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.mobile_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.validator_1.5.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.webservice_1.0.0.201706120646.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\wsdl4j_1.6.2.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\lib\groovy-all-2.4.7.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\lib\bsf-2.4.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\lib\ivy-2.4.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\lib\org.apache.xerces.impl_2.11.0.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\lib\org.apache.xml.apis_1.4.1.jar"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\lib\servlet-api-2.4.jar"/>
+<listEntry value="C:\Users\admin\.groovy\greclipse\global_dsld_support"/>
+<listEntry value="C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.codehaus.groovy_2.4.7.xx-201611170128-e46\plugin_dsld_support\"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.codehaus.groovy.tools.GroovyStarter"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--classpath &quot;${workspace_loc:\C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj}\Keywords;${workspace_loc:\C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj}\Libs;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\fast-classpath-scanner-1.93.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\httpclient-cache-4.5.2.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\jbrowserdriver-0.17.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\jbrowserdriver-lib-1.0.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\kat-server.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\selenium-server-standalone-2.53.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\sikuli-api-1.0.2-standalone.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\slf4j-api-1.7.2.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\slf4j-simple-1.7.2.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\zt-exec-1.7.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\configuration\resources\lib\zt-process-1.3.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.google.gson_2.3.1.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.constant_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.appium_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.mobile_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.webservice_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core.webui_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.core_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.jbrowser_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.kms.katalon.selenium-standalone_1.0.0.201706120646.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.microsoft.sqlserver.sqljdbc4_4.1.5605.100.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.mysql.jdbc_5.1.38.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\com.oracle.jdbc.ojdbc7_12.1.0.2.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\io.appium.java-client_3.4.1.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\net.sf.supercsv.super-csv_2.1.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.codec_1.7.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.dbutils_1.6.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.io_2.4.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.lang3_3.1.0.v201403281430.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.lang_2.6.0.v201404270220.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.logging_1.2.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.commons.validator_1.5.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.httpcomponents.httpclient_4.5.1.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.httpcomponents.httpcore_4.4.4.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.poi.ooxml.schemas_3.9.0.v201405241750.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.poi.ooxml_3.9.0.v201405241905.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.poi_3.9.0.v201405241750.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.apache.xmlbeans_2.6.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.dom4j_1.6.1.v201312101416.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.eclipse.osgi_3.11.3.v20170209-1843.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.jsoup_1.7.2.v201304221138.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.postgresql.jdbc41_9.4.1208.jre7.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.zeroturnaround.zt-exec_1.7.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\org.zeroturnaround.zt-process_1.3.0.jar;C:\Users\admin\Desktop\Katalon_Studio_Windows_64-4.6\plugins\wsdl4j_1.6.2.jar;${workspace_loc:\C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj}\bin;${workspace_loc:\C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj}\bin\keyword;${workspace_loc:\C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj}\bin\lib&quot; --main groovy.ui.GroovyMain &quot;${resource_loc:/C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj/Libs/TempTestCase1498205256100.groovy}&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=" -Dgroovy.home=&quot;${groovy_home}&quot; -Xmx3913m"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:\C%%Users%admin%Katalon Studio%Samples%Mobile%Sample Mobile Testing Project.prj}"/>
+</launchConfiguration>
